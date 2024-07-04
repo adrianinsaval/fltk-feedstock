@@ -2,3 +2,5 @@ c_compiler:
   - vs2017  # [win]
 cxx_compiler:
   - vs2017  # [win]
+channel_targets:
+- freecad main
